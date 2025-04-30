@@ -1,12 +1,14 @@
-## 🐍💻 Welcome to My Digital Tomb — I’m Omar
+## 💀 Welcome to My Digital Tomb — I’m Omar
 
-🧑‍💻 **Penetration Tester | Red Team Enthusiast | Cyber Gladiator from Egypt 🇪🇬**
+🧑‍💻 **Penetration Tester | Red Teamer at Heart | Cybersecurity Gladiator 🇪🇬**
 
-I'm a cybersecurity engineer blending deep technical knowledge with a hands-on offensive mindset. From breaking systems at the hardware level to crafting encrypted comms and stealthy data transfer tools, I build tech that pushes boundaries.
+Hey there! I'm Omar — a cybersecurity engineer who doesn’t just read logs or follow alerts; I **hunt**, **build**, and **break**. Whether it's tearing into hardware, engineering covert data exfiltration tools, or dissecting operating systems, I’m all about pushing boundaries.
 
-⚔️ I sharpen my skills as a SOC Tier 1 analyst, but my core is red team driven: designing tools, scripting offensive workflows, and dissecting systems to understand their pulse.
+⚔️ By day, I’m a SOC Tier 1 analyst keeping threats at bay. But when the shadows fall, I shift into red team mode — designing attack flows, scripting custom exploits, and crafting tools to challenge the status quo.
 
-### 🔍 About Me
+---
+
+### 🧬 Quickfire Stats About Me
 <p align="center">
   <img src="https://img.shields.io/badge/SOC%20Analyst-Tier%201-0d1117?style=for-the-badge&logo=virustotal&logoColor=blue" />
   <img src="https://img.shields.io/badge/Red%20Team-Ethical%20Hacker-990000?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -15,40 +17,45 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
   <img src="https://img.shields.io/badge/Red%20Team-Exploitation%20&%20Recon-d00000?style=for-the-badge&logo=exploitdb&logoColor=white" />
 </p>
 
+---
 
-
-  ## 🛠️ Programming languages I'v learned !
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=amd)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-
-
-
-### 🔧 Core Tools I mastered !
+### 🧠 Programming Languages I Speak Fluently (and exploit with 😈)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Network%20Recon-Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packet%20Analysis-Wireshark-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packet%20Crafting-Scapy-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/-PowerShell-05122A?style=for-the-badge&logo=powershell" />
+  <img src="https://img.shields.io/badge/-Assembly-05122A?style=for-the-badge&logo=amd" />
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust" />
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql" />
 </p>
 
+---
+
+### 🧰 Tools of the Trade — My Battle Gear
+
+#### 🛰️ Network & Protocols
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Testing-Burp%20Suite-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Injection-SQLMap-F9A825?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Recon-214478?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scapy-Packet%20Crafting-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+#### 🌐 Web Application Offense
 <p align="center">
-  <img src="https://img.shields.io/badge/Exploitation-Metasploit-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Brute%20Force-Hydra-9B59B6?style=for-the-badge&logo=hydra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Password%20Cracking-JohnTheRipper-FF5733?style=for-the-badge&logo=john&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-Injection-F9A825?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### 💣 Exploitation & Cracking
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-Brute%20Force-9B59B6?style=for-the-badge&logo=hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracking-FF5733?style=for-the-badge&logo=john&logoColor=white" />
 </p>
 
 
