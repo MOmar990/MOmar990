@@ -115,14 +115,15 @@ Explore my [Cybersecurity-Learning repo](https://github.com/MOmar990/Cybersecuri
 
 ---
 
-## 🐫 The Pharaoh’s Code
-> “Tools are not just scripts — they're weapons forged in silence.”
+### 🐫 The Pharaoh’s Code
+> “Code is my weapon, forged in silence.”
 
-👾 Builder. Breaker. Defender. Walking the line between red and blue, always evolving under the desert sun.
+Builder. Breaker. Defender. Evolving under Egypt’s sun.
 
-📬 Let’s connect, collaborate, or conquer a CTF together!  
-**Email**: OmarMajectyTaher2@gmail.com  
-**CTF Platforms**: Hack The Box | TryHackMe | PicoCTF
+### 📬 Connect
+- **Email**: [OmarMajectyTaher2@gmail.com](mailto:OmarMajectyTaher2@gmail.com)
+- **CTF Profiles**: [Hack The Box](https://hackthebox.com/...) | [TryHackMe](https://tryhackme.com/...) | [PicoCTF](https://picoctf.org/...)
+- **GitHub**: Star my repos or collaborate on a project!
 
 <!---
 MOmar990/MOmar990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
