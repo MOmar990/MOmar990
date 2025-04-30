@@ -1,5 +1,8 @@
 
-![MAJECTY (1)](https://github.com/user-attachments/assets/9df88b7c-2f77-4516-90d0-cf2dc2666734)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9df88b7c-2f77-4516-90d0-cf2dc2666734" alt="MAJECTY GIF" />
+</div>
+
 
 ## 💀 Welcome to My Digital Tomb — I’m Omar
 
