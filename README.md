@@ -57,11 +57,17 @@ Below are the tools I rely on most to carry out penetration tests, red team enga
 ![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
 
 ### 🧠 What I Bring to the Table
-- 🔧 Strong programming background (Python, Bash, custom scripting)
-- 📟 Deep knowledge of computer engineering, hardware, and OS internals
-- 🧩 Regular CTF player, hack & defend competitor, and security toolsmith
-- 🧠 Always exploring ways to automate, secure, and outsmart systems
+🔧 Master of Code and Scripting
+With a strong programming foundation in Python, Bash, and custom scripts, I craft seamless, efficient tools that turn complex problems into elegant solutions. From automating routine tasks to exploiting vulnerabilities, my code speaks for itself.
 
+📟 Hardware Whisperer & OS Architect
+With a deep understanding of computer engineering, hardware architecture, and OS internals, I don’t just break systems—I understand their pulse, making me a true systems-level hacker. My hands-on experience with low-level exploits and hardware hacking makes me a versatile tech tactician.
+
+🧩 CTF Enthusiast & Red Team Operator
+A constant player in CTFs and hack-and-defend competitions, I stay sharp by tackling real-world attack and defense scenarios. Whether it's designing offensive strategies or fine-tuning defensive measures, I always look for new ways to outsmart adversaries in the cybersecurity domain.
+
+🔐 Security Automation and Optimization
+Constantly striving to automate repetitive processes, secure systems at the core, and outsmart attackers, I focus on improving security through innovation and custom solutions. I don’t just defend systems—I preemptively design them to be unbreakable.
 ---
 
 ## ⚒️ Custom Tools I’ve Built
