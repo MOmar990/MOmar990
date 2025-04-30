@@ -18,7 +18,7 @@ I’m a cybersecurity engineer with a foundation in computer engineering and a p
 ---
 
 ### 🛠️ Tech Arsenal:
-`Python` | `Bash` | `Scapy` | `Impacket` | `Paramiko` | `Socket` | `Requests`  
+`Python` | `Bash` | `C` | `Shell` | `Rust` | `Php` | `DBs` | `Scapy` | `Impacket` | `Paramiko` | `Socket` | `Requests` | `C++` | `Assembly` |
 `Linux` | `SIEM` | `Wireshark` | `Burp Suite` | `Nmap` | `Metasploit` | `MITRE ATT&CK`
 
 ---
