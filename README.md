@@ -18,14 +18,15 @@ Hey there! I'm Omar — a cybersecurity engineer who doesn’t just read logs or
 
 ---
 
-### 🌍 Languages I Speak
+#### 🌍 Languages I Speak
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Russian-A2-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/French-A1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arabic-🇪🇬%20Native-green?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-🇬🇧%20B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Russian-🇷🇺%20A2-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/French-🇫🇷%20A1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
+
 
 ---
 ### 🧠 Programming Languages I Speak Fluently (and exploit with 😈)
