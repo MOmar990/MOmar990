@@ -7,10 +7,13 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 ⚔️ I currently sharpen my skills in SOC Tier 1 operations, but my core is red team driven: I design tools, script offensive workflows, and challenge systems just to understand how they tick.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analyst-Tier%201-blue?style=flat-square&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Red%20Team-Ethical%20Hacker-critical?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Egyption-Based-orange?style=flat-square&logo=globe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC%20Analyst-Tier%201-0d1117?style=for-the-badge&logo=virustotal&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Red%20Team-Ethical%20Hacker-990000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20In-Egypt-orange?style=for-the-badge&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber%20Ops-Offensive%20Security-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mindset-Threat%20Driven-black?style=for-the-badge&logo=protonmail&logoColor=white" />
 </p>
+
 
 ## 📊 GitHub Stats
 
