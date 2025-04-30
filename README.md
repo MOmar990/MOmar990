@@ -7,6 +7,12 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 ⚔️ I currently sharpen my skills in SOC Tier 1 operations, but my core is red team driven: I design tools, script offensive workflows, and challenge systems just to understand how they tick.
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MOmar990&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 
 ### 🧠 What I Bring to the Table:
 - 🔧 Strong programming background (Python, Bash, custom scripting)
