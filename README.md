@@ -64,18 +64,6 @@ Below are the tools I rely on most to carry out penetration tests, red team enga
 
 ---
 
-## 🛠️ Tech Arsenal
-
-**🧠 Programming & Scripting**: Python | Bash | Shell | C | C++ | PHP | Rust | Assembly
-
-**💾 Databases**: MySQL | PostgreSQL
-
-**🔧 Offensive Security Libraries & Tools**: Scapy | Impacket | Paramiko | Socket | Requests | Cryptography | pwntools | BeautifulSoup | nmap (Python wrapper) | PyCryptoDome | Shodan API | SQLMap (automation wrapper) | Recon-ng
-
-**🧰 Platforms & Tools**: Linux | Wireshark | Burp Suite | Metasploit | Nmap | JohnTheRipper | Aircrack-ng | Hydra | MITRE ATT&CK | SIEM
-
----
-
 ## ⚒️ Custom Tools I’ve Built
 
 Here are some personal tools I’m actively developing to enhance my workflow, red team tactics, and secure operations:
