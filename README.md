@@ -21,10 +21,16 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=amd)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Snort Rules](https://img.shields.io/badge/-Snort%20Rules-05122A?style=flat&logo=snort)
+![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
 
 
 
