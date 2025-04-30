@@ -1,6 +1,6 @@
-![omar-typing](https://github.com/user-attachments/assets/92d7223e-659f-44ab-b50b-803219dd9375)
-
+![omar-typing](https://github.com/user-attachments/assets/b1aae6ee-b782-4e0b-b59c-403b13a0b864)
 <div align="center">
+
   <img src="https://github.com/user-attachments/assets/9df88b7c-2f77-4516-90d0-cf2dc2666734" alt="MAJECTY GIF" />
 </div>
 
