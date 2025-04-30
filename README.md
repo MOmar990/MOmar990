@@ -6,16 +6,15 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 ⚔️ I sharpen my skills as a SOC Tier 1 analyst, but my core is red team driven: designing tools, scripting offensive workflows, and dissecting systems to understand their pulse.
 
+### 🔍 About Me
 <p align="center">
   <img src="https://img.shields.io/badge/SOC%20Analyst-Tier%201-0d1117?style=for-the-badge&logo=virustotal&logoColor=blue" />
   <img src="https://img.shields.io/badge/Red%20Team-Ethical%20Hacker-990000?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Based%20In-Egypt-orange?style=for-the-badge&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber%20Ops-Offensive%20Security-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mindset-Threat%20Driven-black?style=for-the-badge&logo=protonmail&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Blue%20Team-Detection%20&%20Response-005f73?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Red%20Team-Exploitation%20&%20Recon-d00000?style=for-the-badge&logo=exploitdb&logoColor=white" />
 </p>
+
 
 
   ## 🛠️ Languages I learned !
@@ -32,16 +31,6 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Snort Rules](https://img.shields.io/badge/-Snort%20Rules-05122A?style=flat&logo=snort)
 ![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
-
-
-### 🔍 About Me
-<p align="center">
-  <img src="https://img.shields.io/badge/SOC%20Analyst-Tier%201-0d1117?style=for-the-badge&logo=virustotal&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Red%20Team-Ethical%20Hacker-990000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based%20In-Egypt-orange?style=for-the-badge&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blue%20Team-Detection%20&%20Response-005f73?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Red%20Team-Exploitation%20&%20Recon-d00000?style=for-the-badge&logo=exploitdb&logoColor=white" />
-</p>
 
 
 
