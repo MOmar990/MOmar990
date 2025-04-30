@@ -16,7 +16,24 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
   <img src="https://img.shields.io/badge/Blue%20Team-Detection%20&%20Response-005f73?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Red%20Team-Exploitation%20&%20Recon-d00000?style=for-the-badge&logo=exploitdb&logoColor=white" />
 </p>
-  
+
+
+  ## 🛠️ Languages I learned !
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=amd)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Snort Rules](https://img.shields.io/badge/-Snort%20Rules-05122A?style=flat&logo=snort)
+![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
+
+
 ## 🛠️ Most Used Tools
 
 Below are the tools I rely on most to carry out penetration tests, red team engagements, and general cybersecurity tasks:
@@ -50,25 +67,6 @@ Below are the tools I rely on most to carry out penetration tests, red team enga
 </div>
 
 
-
-
-
-
-
-## 🛠️ Languages & Tools
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
-![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=amd)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Snort Rules](https://img.shields.io/badge/-Snort%20Rules-05122A?style=flat&logo=snort)
-![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
 
 ### 🧠 What I Bring to the Table
 
