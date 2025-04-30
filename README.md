@@ -9,7 +9,7 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 <p align="center">
   <img src="https://img.shields.io/badge/SOC%20Analyst-Tier%201-blue?style=flat-square&logo=virustotal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Red%20Team-Ethical%20Hacker-critical?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kuwait-Based-orange?style=flat-square&logo=globe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Egyption-Based-orange?style=flat-square&logo=globe&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats
