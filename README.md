@@ -14,7 +14,8 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 ## 📊 GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&hide_title=false&hide_border=false&include_all_commits=true&count_private=true&custom_title=⚔️%20Omar%20Taher%20-%20Cyber%20Ops&theme=dark&bg_color=000000&title_color=E63946&icon_color=FFD700&text_color=AAAAAA)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_radius=10&custom_title=GitHub%20Activity%20Stats)
+
 
 
 
