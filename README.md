@@ -12,7 +12,11 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
   <img src="https://img.shields.io/badge/Based%20In-Egypt-orange?style=for-the-badge&logo=map&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber%20Ops-Offensive%20Security-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Mindset-Threat%20Driven-black?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Wireshark-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
+
 
 
 ## 📊 GitHub Stats
