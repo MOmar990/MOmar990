@@ -1,5 +1,5 @@
 
-![MAJECTY](https://github.com/user-attachments/assets/97df0497-f6df-43d3-96ad-42b21d66e066)
+![MAJECTY (1)](https://github.com/user-attachments/assets/9df88b7c-2f77-4516-90d0-cf2dc2666734)
 
 ## 💀 Welcome to My Digital Tomb — I’m Omar
 
