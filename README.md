@@ -17,7 +17,7 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 
 
-  ## 🛠️ Languages I learned !
+  ## 🛠️ Programming languages I'v learned !
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)
@@ -34,7 +34,7 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 
 
-### 🔧 Core Tools
+### 🔧 Core Tools I mastered !
 
 <p align="center">
   <img src="https://img.shields.io/badge/Network%20Recon-Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
@@ -74,18 +74,25 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 
 ### 🌟 My Expertise
-- **Offensive Security**: Design and execute red team operations, from recon to exploitation.
-- **Tool Development**: Build custom Python/Bash tools for automation and stealth.
+- **Offensive Security**: Designing and executing red team operations, from recon phase to exploitation phase.
+- 
+- **Tool Development**: Building custom Python/Bash tools for automation and stealth purposes.
+- 
 - **System Internals**: Leverage hardware and OS knowledge for low-level exploits.
+- 
 - **CTF Mastery**: Hone skills through Hack The Box, TryHackMe, and PicoCTF.
+- 
 - **Automation**: Streamline security workflows with scripts and secure configurations.
 ---
 
 ### ⚒️ My Tools
+
 - **Encrypted Comms Channel**  
   A Python-based secure communication system using AES encryption for covert team coordination. [Repo](https://github.com/MOmar990/encrypted-comms)
+  
 - **Secure Data Transfer Utility**  
   A Rust tool for stealthy data exfiltration with layered encryption and obfuscation. [Repo](https://github.com/MOmar990/secure-transfer)
+  
 - **Recon Toolkit** (In Progress)  
   A modular Python suite for automated recon and payload delivery. Expected release: Q2 2025.
 
