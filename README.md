@@ -13,13 +13,25 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
   <img src="https://img.shields.io/badge/Cyber%20Ops-Offensive%20Security-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Mindset-Threat%20Driven-black?style=for-the-badge&logo=protonmail&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Tool-Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Wireshark-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/Blue%20Team-Detection%20&%20Response-005f73?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Red%20Team-Exploitation%20&%20Recon-d00000?style=for-the-badge&logo=exploitdb&logoColor=white" />
 </p>
+
+## 🛠️ Most Used Tools
+
+Below are the tools I rely on most to carry out penetration tests, red team engagements, and general cybersecurity tasks:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Wireshark-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Metasploit-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-JohnTheRipper-FF5733?style=for-the-badge&logo=john&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Hydra-9B59B6?style=for-the-badge&logo=hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Scapy-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-SQLMap-F9A825?style=for-the-badge&logo=sql&logoColor=white" />
+</p>
+
 
 ## 📊 GitHub Stats
 
