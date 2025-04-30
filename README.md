@@ -33,13 +33,22 @@ Below are the tools I rely on most to carry out penetration tests, red team enga
 </p>
 
 
+<div align="right">
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_radius=10&custom_title=GitHub%20Activity%20Stats)
 
+</div>
+
+<div align="right">
+
 ## 🛠️ Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOmar990&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=10&hide=html,css)
+
+</div>
+
 
 ## 🛠️ Languages & Tools
 
