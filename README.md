@@ -32,35 +32,27 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 ![Snort Rules](https://img.shields.io/badge/-Snort%20Rules-05122A?style=flat&logo=snort)
 ![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
 
-### 🛠️ Programming Languages
-| Language      | Proficiency  |
-|---------------|--------------|
-| Python        | Advanced     |
-| Bash          | Advanced     |
-| C             | Intermediate |
-| C++           | Intermediate |
-| PowerShell    | Intermediate |
-| Assembly      | Beginner     |
-| PHP           | Beginner     |
-| Rust          | Beginner     |
 
-**Databases**: MySQL, PostgreSQL  
-**Security Configs**: Snort Rules, Suricata Rules
 
-## 🛠️ Most Used Tools
-
-Below are the tools I rely on most to carry out penetration tests, red team engagements, and general cybersecurity tasks:
+### 🔧 Core Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tool-Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Wireshark-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Metasploit-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-JohnTheRipper-FF5733?style=for-the-badge&logo=john&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Hydra-9B59B6?style=for-the-badge&logo=hydra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-Scapy-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tool-SQLMap-F9A825?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Recon-Nmap-214478?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Analysis-Wireshark-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Crafting-Scapy-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Testing-Burp%20Suite-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Injection-SQLMap-F9A825?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Exploitation-Metasploit-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brute%20Force-Hydra-9B59B6?style=for-the-badge&logo=hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Password%20Cracking-JohnTheRipper-FF5733?style=for-the-badge&logo=john&logoColor=white" />
+</p>
+
 
 
 <div align="center">
