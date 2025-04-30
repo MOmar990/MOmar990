@@ -81,20 +81,13 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 - **Automation**: Streamline security workflows with scripts and secure configurations.
 ---
 
-## ⚒️ Custom Tools I’ve Built
-
-Here are some personal tools I’m actively developing to enhance my workflow, red team tactics, and secure operations:
-
-- 🕵️‍♂️ **Encrypted Team Comms Channel**  
-  A secure, encrypted communication system inspired by covert ops. Built for stealthy team coordination in high-threat environments.
-
-- 📡 **High-Security Data Transfer Utility**  
-  A stealth-focused tool for secure data transfer using layered encryption and obfuscation. Adapted from C2 exfil concepts for daily lab use.
-
-- 🧰 **Custom Recon and Payload Toolkit** *(coming soon)*  
-  A modular suite for automated recon, info gathering, and light post-exploitation tasks, optimized for speed and stealth.
-
-> ⚙️ These tools are built from scratch, tested in my lab, and designed for real-world use — no copy-paste junk.
+### ⚒️ My Tools
+- **Encrypted Comms Channel**  
+  A Python-based secure communication system using AES encryption for covert team coordination. [Repo](https://github.com/MOmar990/encrypted-comms)
+- **Secure Data Transfer Utility**  
+  A Rust tool for stealthy data exfiltration with layered encryption and obfuscation. [Repo](https://github.com/MOmar990/secure-transfer)
+- **Recon Toolkit** (In Progress)  
+  A modular Python suite for automated recon and payload delivery. Expected release: Q2 2025.
 
 ---
 
