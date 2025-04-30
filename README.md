@@ -14,9 +14,12 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&theme=radical&border_radius=15)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOmar990&layout=compact&theme=radical&border_radius=15)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOmar990&theme=radical&border_radius=15)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&theme=dracula&custom_title=🖤 Omar | CyberSec Ops & Offense & border_radius=15)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOmar990&layout=compact&theme=dracula&langs_count=8&hide=html)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MOmar990&theme=dracula&border_radius=15)
+
 
 
 ### 🧠 What I Bring to the Table:
