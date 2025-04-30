@@ -35,27 +35,18 @@ Hey there! I'm Omar — a cybersecurity engineer who doesn’t just read logs or
 
 ---
 
-### 🧰 Tools of the Trade — My Battle Gear
+### ⚔️ Offensive Arsenal
 
-#### 🛰️ Network & Protocols
+From recon to post-exploitation, these are the tools I wield daily in engagements:
+
 <p align="center">
   <img src="https://img.shields.io/badge/Nmap-Recon-214478?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scapy-Packet%20Crafting-2ECC71?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-#### 🌐 Web Application Offense
-<p align="center">
   <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-Injection-F9A825?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-#### 💣 Exploitation & Cracking
-<p align="center">
   <img src="https://img.shields.io/badge/Metasploit-Exploitation-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hydra-Brute%20Force-9B59B6?style=for-the-badge&logo=hydra&logoColor=white" />
   <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracking-FF5733?style=for-the-badge&logo=john&logoColor=white" />
 </p>
+
 
 
 
