@@ -2,33 +2,58 @@
 
 🧑‍💻 **Penetration Tester | Red Team Enthusiast | Cyber Gladiator from Egypt 🇪🇬**
 
-I’m a cybersecurity engineer with a foundation in computer engineering and a passion for discovering how systems work — inside and out. I love exploring architectures, breaking things down, and building my own tools from scratch to automate, exploit, or defend.
+I'm a cybersecurity engineer blending deep technical knowledge with a hands-on offensive mindset. From breaking down systems at the hardware level to building my own encrypted comms and stealthy data transfer tools — I create the kind of tech I wish existed.
 
-⚔️ Currently mastering SOC Tier 1 operations while staying deep in red team tactics. I thrive in CTFs, enjoy offensive security challenges, and love creating my own hacking utilities instead of just using what’s already out there.
+⚔️ I currently sharpen my skills in SOC Tier 1 operations, but my core is red team driven: I design tools, script offensive workflows, and challenge systems just to understand how they tick.
 
 ---
 
 ### 🧠 What I Bring to the Table:
-- 🔧 Strong coding background — Python, Bash, and crafting custom tools
-- 📟 Deep knowledge of computer systems, hardware, architecture & OS internals
-- 🧪 Always building — from scanners to exploit scripts to mini C2s
-- 🕵️ Curious by nature — I love discovering, breaking, and rebuilding systems
-- 🎯 Active in CTFs and red-vs-blue competitions, always thinking like an attacker
+- 🔧 Strong programming background (Python, Bash, custom scripting)
+- 📟 Solid knowledge of computer engineering, hardware, and OS internals
+- 🧩 Regular CTF player, hack & defend competitor, and security toolsmith
+- 🧠 Always exploring ways to automate, secure, and outsmart systems
 
 ---
 
-### 🛠️ Tech Arsenal:
-`Python` | `Bash` | `C` | `Shell` | `Rust` | `Php` | `DBs` | `Scapy` | `Impacket` | `Paramiko` | `Socket` | `Requests` | `C++` | `Assembly` |
-`Linux` | `SIEM` | `Wireshark` | `Burp Suite` | `Nmap` | `Metasploit` | `MITRE ATT&CK`
+🛠️ Tech Arsenal:
+🧠 Programming & Scripting:
+Python | Bash | Shell | C | C++ | PHP | Rust | Assembly
+
+💾 Databases:
+MySQL | PostgreSQL
+
+🔧 Offensive Security Libraries & Tools:
+Scapy | Impacket | Paramiko | Socket | Requests | Cryptography | pwntools | BeautifulSoup | nmap (Python wrapper) | PyCryptoDome | Shodan API | SQLMap (automation wrapper) | Recon-ng
+
+🧰 Platforms & Tools:
+Linux | Wireshark | Burp Suite | Metasploit | Nmap | JohnTheRipper | Aircrack-ng | Hydra | MITRE ATT&CK | SIEM
+
+---
+
+## ⚒️ Some of the Custom Tools I'd made:
+
+Here are a few personal tools I’m actively developing to enhance my workflow, red team tactics, and secure internal operations:
+
+- 🕵️‍♂️ **Encrypted Team Comms Channel**  
+  A secure, encrypted communication system inspired by covert dark web ops. Built to enable stealthy team coordination in isolated or high-threat environments.
+
+- 📡 **High-Security Data Transfer Utility**  
+  A stealth-focused tool to securely move data between devices using layered encryption and modern obfuscation techniques. Originally made for victim-to-C2 exfil, now adapted for daily secure data handling in my lab.
+
+- 🧰 **Custom Recon and Payload Toolkit** *(coming soon)*  
+  A modular suite of scanning and payload tools to automate recon, info gathering, and light post-exploitation tasks — tailored for speed and stealth.
+
+> ⚙️ These tools are built from scratch, tested in my own lab environments, and designed for real-world use — no copy-paste junk.
 
 ---
 
 ### 🐫 The Pharaoh’s Code
-> “Break it to understand it. Script it to own it. Defend it like it’s sacred.”
+> “Tools are not just scripts — they're weapons forged in silence.”
 
-👾 Builder. Breaker. Defender. Always evolving in the shadows of the pyramids.
+👾 Builder. Breaker. Defender. Walking the line between red and blue, always evolving under the desert sun.
 
-📬 Let’s connect, collaborate, or conquer a CTF together... How to reach me? --> OmarMajectyTaher2@gmail.com
+📬 Let’s connect, collaborate, or conquer a CTF together...How to reach me? --> OmarMajectyTaher2@gmail.com
 
 
 <!---
