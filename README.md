@@ -1,4 +1,5 @@
-(https://github.com/MOmar990/MOmar990/blob/98c036aa2cadf4d5b982e5ac33585a3eaf80d655/MAJECTY.gif)
+
+![MAJECTY](https://github.com/user-attachments/assets/97df0497-f6df-43d3-96ad-42b21d66e066)
 
 ## 💀 Welcome to My Digital Tomb — I’m Omar
 
