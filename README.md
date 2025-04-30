@@ -14,7 +14,7 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 ## 📊 GitHub Stats
 
-![Anubis Stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&hide_title=false&hide_border=false&include_all_commits=true&count_private=true&custom_title=⚔️%20Omar%20The%20Anubis%20-%20Cyber%20Ops&theme=dark&bg_color=000000&title_color=E63946&icon_color=FFD700&text_color=AAAAAA)
+![My Stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&hide_title=false&hide_border=false&include_all_commits=true&count_private=true&custom_title=⚔️%20Omar%20The%20Taher%20-%20Cyber%20Ops&theme=dark&bg_color=000000&title_color=E63946&icon_color=FFD700&text_color=AAAAAA)
 
 
 
