@@ -12,6 +12,14 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
   <img src="https://img.shields.io/badge/Based%20In-Egypt-orange?style=for-the-badge&logo=map&logoColor=white" />
   <img src="https://img.shields.io/badge/Cyber%20Ops-Offensive%20Security-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Mindset-Threat%20Driven-black?style=for-the-badge&logo=protonmail&logoColor=white" />
+
+  ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_radius=10&custom_title=GitHub%20Activity%20Stats)
+
+</div>
+
+<div align="right">
   
   <img src="https://img.shields.io/badge/Blue%20Team-Detection%20&%20Response-005f73?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Red%20Team-Exploitation%20&%20Recon-d00000?style=for-the-badge&logo=exploitdb&logoColor=white" />
@@ -35,13 +43,7 @@ Below are the tools I rely on most to carry out penetration tests, red team enga
 
 <div align="right">
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOmar990&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_radius=10&custom_title=GitHub%20Activity%20Stats)
-
-</div>
-
-<div align="right">
 
 ## 🛠️ Most Used Languages
 
