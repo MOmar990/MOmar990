@@ -10,13 +10,10 @@ Hey there! I'm Omar — a cybersecurity engineer who doesn’t just read logs or
 
 ### 🧬 Cyber DNA Snapshot
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🛡️ SOC%20Analyst-Tier%201-0d1117?style=for-the-badge&logo=virustotal&logoColor=blue" />
-  <img src="https://img.shields.io/badge/🧠 Red%20Teamer-Offensive%20Ops-990000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍 Egypt-Based-orange?style=for-the-badge&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔍 Blue%20Team-Detection%20&%20Response-005f73?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/🛠️ Red%20Team-Exploitation%20&%20Recon-d00000?style=for-the-badge&logo=exploitdb&logoColor=white" />
-</p>
+- 🎯 SOC Tier 1 Analyst by role, Red Teamer by soul  
+- 🧨 Offensive security is my playground (exploits, recon, weaponization)  
+- 🛰️ Experienced in blue team defense, detection & incident response  
+- 🌍 Based in Egypt, but think in code and packet flows  
 
 
 ---
