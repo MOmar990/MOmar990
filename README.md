@@ -75,13 +75,13 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 ### 🌟 My Expertise
 - **Offensive Security**: Designing and executing red team operations, from recon phase to exploitation phase.
-- 
+  
 - **Tool Development**: Building custom Python/Bash tools for automation and stealth purposes.
-- 
+  
 - **System Internals**: Leverage hardware and OS knowledge for low-level exploits.
-- 
+  
 - **CTF Mastery**: Hone skills through Hack The Box, TryHackMe, and PicoCTF.
-- 
+  
 - **Automation**: Streamline security workflows with scripts and secure configurations.
 ---
 
@@ -89,10 +89,10 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 - **Encrypted Comms Channel**  
   A Python-based secure communication system using AES encryption for covert team coordination. [Repo](https://github.com/MOmar990/encrypted-comms)
-  
+
 - **Secure Data Transfer Utility**  
   A Rust tool for stealthy data exfiltration with layered encryption and obfuscation. [Repo](https://github.com/MOmar990/secure-transfer)
-  
+
 - **Recon Toolkit** (In Progress)  
   A modular Python suite for automated recon and payload delivery. Expected release: Q2 2025.
 
