@@ -29,28 +29,11 @@ Hey there! I'm Omar — a cybersecurity engineer who doesn’t just read logs or
 
 
 ---
-### 🧠 Programming Languages I Speak Fluently (and exploit with 😈)
+### 🧠 Tech and Programming Languages I Speak Fluently (and exploit with 😈)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-PowerShell-05122A?style=for-the-badge&logo=powershell" />
-  <img src="https://img.shields.io/badge/-Assembly-05122A?style=for-the-badge&logo=amd" />
-  <img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust" />
-  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql" />
-</p>
-
----
-
-# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
 ---
+
 ### ⚔️ Offensive Arsenal
 
 From recon to post-exploitation, these are the tools I wield daily in engagements:
