@@ -32,7 +32,20 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 ![Snort Rules](https://img.shields.io/badge/-Snort%20Rules-05122A?style=flat&logo=snort)
 ![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
 
+### 🛠️ Programming Languages
+| Language      | Proficiency  |
+|---------------|--------------|
+| Python        | Advanced     |
+| Bash          | Advanced     |
+| C             | Intermediate |
+| C++           | Intermediate |
+| PowerShell    | Intermediate |
+| Assembly      | Beginner     |
+| PHP           | Beginner     |
+| Rust          | Beginner     |
 
+**Databases**: MySQL, PostgreSQL  
+**Security Configs**: Snort Rules, Suricata Rules
 
 ## 🛠️ Most Used Tools
 
