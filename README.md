@@ -104,24 +104,6 @@ From recon to post-exploitation, these are the tools I wield daily in engagement
 
 ---
 
-## 📚 My Cybersecurity Learning Journey
-
-I’m constantly leveling up my skills through structured learning and hands-on projects. Below is my current focus:
-
-- **Mastering the Python `os` Library**  
-  I’m diving deep into the `os` module to automate file system tasks, manage processes, and build robust tools. Check out my [Python `os` Learning Guide](https://github.com/MOmar990/Cybersecurity-Learning/blob/main/os_learning_guide.md) for a step-by-step breakdown of my progress.
-
-- **6-Week Python Hacking Curriculum**  
-  I’m following a custom 6-week plan to build hacking tools, from port scanners to keyloggers. See the full curriculum and resources in my [Python Hacking Curriculum](https://github.com/MOmar990/Cybersecurity-Learning/blob/main/python_hacking_curriculum.md) and [Learning Plan](https://github.com/MOmar990/Cybersecurity-Learning/blob/main/python_hacking_learning_plan.md).
-
-**Recent Projects**:
-- Built a port scanner and banner grabber using `socket` (Week 1).
-- Developing an ARP spoofing tool with `scapy` (Week 2).
-- Working on a login brute forcer with `requests` (Week 3).
-
-Explore my [Cybersecurity-Learning repo](https://github.com/MOmar990/Cybersecurity-Learning) for code, notes, and updates!
-
----
 
 ### 🐫 The Pharaoh’s Code
 > “Code is my weapon, forged in silence.”
