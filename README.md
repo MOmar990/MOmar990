@@ -73,20 +73,12 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 
 
 
-### 🧠 What I Bring to the Table
-
-- 🔧 **Master of Code and Scripting**  
-  With a strong programming foundation in Python, Bash, and custom scripts, I craft seamless, efficient tools that turn complex problems into elegant solutions. From automating routine tasks to exploiting vulnerabilities, my code speaks for itself.
-
-- 📟 **Hardware Whisperer & OS Architect**  
-  With a deep understanding of computer engineering, hardware architecture, and OS internals, I don’t just break systems—I understand their pulse, making me a true systems-level hacker. My hands-on experience with low-level exploits and hardware hacking makes me a versatile tech tactician.
-
-- 🧩 **CTF Enthusiast & Red Team Operator**  
-  A constant player in CTFs and hack-and-defend competitions, I stay sharp by tackling real-world attack and defense scenarios. Whether it's designing offensive strategies or fine-tuning defensive measures, I always look for new ways to outsmart adversaries in the cybersecurity domain.
-
-- 🔐 **Security Automation and Optimization**  
-  Constantly striving to automate repetitive processes, secure systems at the core, and outsmart attackers, I focus on improving security through innovation and custom solutions. I don’t just defend systems—I preemptively design them to be unbreakable.
-
+### 🌟 My Expertise
+- **Offensive Security**: Design and execute red team operations, from recon to exploitation.
+- **Tool Development**: Build custom Python/Bash tools for automation and stealth.
+- **System Internals**: Leverage hardware and OS knowledge for low-level exploits.
+- **CTF Mastery**: Hone skills through Hack The Box, TryHackMe, and PicoCTF.
+- **Automation**: Streamline security workflows with scripts and secure configurations.
 ---
 
 ## ⚒️ Custom Tools I’ve Built
