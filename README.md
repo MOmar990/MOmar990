@@ -29,8 +29,6 @@ I'm a cybersecurity engineer blending deep technical knowledge with a hands-on o
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Snort Rules](https://img.shields.io/badge/-Snort%20Rules-05122A?style=flat&logo=snort)
-![Suricata Rules](https://img.shields.io/badge/-Suricata%20Rules-05122A?style=flat&logo=suricata)
 
 
 
