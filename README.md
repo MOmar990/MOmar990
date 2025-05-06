@@ -71,9 +71,9 @@ From recon to post-exploitation, these are the tools I wield daily in engagement
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOmar990&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=10&hide=html,css)
 
-</div>
+![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MOmar990&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10)
 
-
+<div>
 
 ### 🌟 My Expertise
 - **Offensive Security**: Designing and executing red team operations, from recon phase to exploitation phase.
