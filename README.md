@@ -6,7 +6,7 @@
 
 ---
 
-## Omar Taher | Cybersecurity Engineer
+## Omar Taher | SOC Tier 1 Analyst
 
 ### I am a SOC Tier 1 Analyst with a focus on offensive security, specializing in penetration testing and tool development. Based in Egypt, I leverage my experience in incident response to enhance my skills in identifying vulnerabilities and building secure systems.
 
