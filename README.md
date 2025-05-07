@@ -143,7 +143,7 @@ A stealthy Python tool for secure file transfers in penetration testing labs. Fe
   - Date: August 25 - September 15, 2024  
 
 - **Conventional Control**  
-  - Issued by: Telecom Egypt (First Automation)  
+  - Issued by: First Automation 
   - Date: January 29 - August 8, 2023  
   - Grade: Excellent  
 
