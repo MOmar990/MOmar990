@@ -79,8 +79,6 @@ I’m Omar, a cybersecurity professional who thrives on **hunting**, **building*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOmar990&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=html,css" alt="Used Languages" width="400" />
 </div>
 
-*Note: Top languages across all my repositories. Excludes HTML/CSS.*
-
 ---
 
 ### 🌟 Expertise
