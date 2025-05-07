@@ -1,122 +1,128 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b1aae6ee-b782-4e0b-b59c-403b13a0b864" alt="Omar Typing Animation" width="400" />
+  <img src="https://github.com/user-attachments/assets/b1aae6ee-b782-4e0b-b59c-403b13a0b864" alt="Omar Typing Animation" width="350" />
   <br><br>
-  <img src="https://github.com/user-attachments/assets/9df88b7c-2f77-4516-90d0-cf2dc2666734" alt="MAJECTY GIF" width="400" />
+  <img src="https://github.com/user-attachments/assets/9df88b7c-2f77-4516-90d0-cf2dc2666734" alt="MAJECTY GIF" width="350" />
 </div>
 
 ---
 
-## 💀 Welcome to My Digital Tomb — I’m Omar
+## 💀 Omar's Digital Tomb
 
-🧑‍💻 **Penetration Tester | Red Teamer at Heart | Cybersecurity Gladiator 🇪🇬**
+🧑‍💻 **Penetration Tester | Red Teamer | Cybersecurity Engineer 🇪🇬**
 
-Hey there! I'm Omar — a cybersecurity engineer who doesn’t just read logs or follow alerts; I **hunt**, **build**, and **break**. Whether it's tearing into hardware, engineering covert data exfiltration tools, or dissecting operating systems, I’m all about pushing boundaries.
+I’m Omar, a cybersecurity professional who thrives on **hunting**, **building**, and **breaking**. From crafting covert data exfiltration tools to dissecting operating systems, I push the boundaries of offensive and defensive security.
 
-⚔️ By day, I’m a SOC Tier 1 analyst keeping threats at bay. But when the shadows fall, I shift into red team mode — designing attack flows, scripting custom exploits, and crafting tools to challenge the status quo.
-
----
-
-### Cyber DNA Snapshot
-
-- SOC Tier 1 Analyst by role, Red Teamer by soul  
-- Offensive security is my playground (exploits, recon, weaponization)  
-- Experienced in blue team defense, detection & incident response  
-- Based in Egypt, but think in code and packet flows  
+🔒 By day, I’m a SOC Tier 1 Analyst neutralizing threats. By night, I’m a Red Teamer designing attack flows, scripting exploits, and challenging the status quo.
 
 ---
 
-#### 🌍 Languages I Speak
+### 🧬 About Me
+
+- **Role**: SOC Tier 1 Analyst with a Red Team soul  
+- **Focus**: Offensive security (exploits, recon, weaponization)  
+- **Skills**: Blue team defense, incident response, tool development  
+- **Location**: Egypt, operating in code and packet flows  
+
+---
+
+### 🌐 Spoken Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arabic-🇪🇬%20Native-green?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-🇬🇧%20B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Russian-🇷🇺%20A2-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/French-🇫🇷%20A1-yellow?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arabic-🇪🇬%20Native-green?style=flat-square&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-🇬🇧%20B2-blue?style=flat-square&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Russian-🇷🇺%20A2-red?style=flat-square&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/French-🇫🇷%20A1-yellow?style=flat-square&logo=googletranslate&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 Tech and Programming Languages I Speak Fluently (and exploit with)
+### 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### ⚔️ Offensive Arsenal
+### ⚔️ Offensive Security Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-Recon-214478?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-164863?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-d2492a?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-Exploitation-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracking-FF5733?style=for-the-badge&logo=john&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Recon-214478?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-164863?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Testing-d2492a?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-8A2BE2?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20The%20Ripper-Password%20Cracking-FF5733?style=flat-square&logo=john&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Used Languages
+### 📊 Used Languages
 
 <div align="center">
-  <table>
-    <tr>
-      <th><span style="color:#58a6ff">Language</span></th>
-      <th><span style="color:#58a6ff">Percentage</span></th>
-      <th><span style="color:#58a6ff">Visual</span></th>
-    </tr>
-    <tr>
-      <td><span style="color:#c9d1d9">Python</span></td>
-      <td><span style="color:#c9d1d9">98.1%</span></td>
-      <td><span style="color:#3670A0">████████████████████</span></td>
-    </tr>
-    <tr>
-      <td><span style="color:#c9d1d9">Shell</span></td>
-      <td><span style="color:#c9d1d9">1.9%</span></td>
-      <td><span style="color:#121011">█</span></td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOmar990&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8&hide=html,css" alt="Used Languages" width="400" />
 </div>
 
----
-
-### 🌟 My Expertise
-
-- **Offensive Security**: Designing and executing red team operations, from recon to exploitation.
-- **Tool Development**: Building custom Python/Bash tools for automation and stealth.
-- **System Internals**: Leveraging hardware and OS knowledge for low-level exploits.
-- **CTF Mastery**: Honing skills through Hack The Box, TryHackMe, and PicoCTF.
-- **Automation**: Streamlining security workflows with scripts and secure configurations.
+*Note: Top languages across all my repositories. Excludes HTML/CSS.*
 
 ---
 
-### ⚒️ My Tools
+### 🌟 Expertise
+
+- **Offensive Security**: Architecting red team operations, from reconnaissance to exploitation.  
+- **Tool Development**: Crafting Python and Bash tools for automation and stealth.  
+- **System Internals**: Exploiting hardware and OS vulnerabilities at the low level.  
+- **CTF Mastery**: Sharpening skills on Hack The Box, TryHackMe, and PicoCTF.  
+- **Automation**: Optimizing security workflows with scripts and configurations.
+
+---
+
+### ⚒️ Projects
 
 - **Encrypted Comms Channel**  
-  A Python-based secure communication system using AES encryption for covert team coordination. [Repo](https://github.com/MOmar990/encrypted-comms)
+  A Python-based secure communication system using AES encryption for covert coordination.  
+  [🔗 Repo](https://github.com/MOmar990/encrypted-comms)
 
 - **Secure Data Transfer Utility**  
-  A Rust tool for stealthy data exfiltration with layered encryption and obfuscation. [Repo](https://github.com/MOmar990/secure-transfer)
+  A Rust-based。其10-based tool for stealthy data exfiltration with layered encryption.  
+  [🔗 Repo](https://github.com/MOmar990/secure-transfer)
 
 - **Recon Toolkit** (In Progress)  
-  A modular Python suite for automated recon and payload delivery. Expected release: Q2 2025.
+  A modular Python suite for automated reconnaissance and payload delivery. Expected Q2 2025.
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:OmarMajectyTaher2@gmail.com"><img src="https://img.shields.io/badge/Email-OmarMajectyTaher2%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hackthebox.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://tryhackme.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/TryHackMe-Profile-88cc14?style=flat-square&logo=tryhackme&logoColor=black" /></a>
+</p>
+
+---
+
+### 🏅 Certifications
+
+- [Placeholder: e.g., OSCP, CEH, CompTIA Security+]  
+- [Add your certifications here or link to Credly/LinkedIn]
 
 ---
 
@@ -124,11 +130,6 @@ Hey there! I'm Omar — a cybersecurity engineer who doesn’t just read logs or
 > “Code is my weapon, forged in silence.”
 
 Builder. Breaker. Defender. Evolving under Egypt’s sun.
-
-### 📬 Connect
-- **Email**: [OmarMajectyTaher2@gmail.com](mailto:OmarMajectyTaher2@gmail.com)
-- **CTF Profiles**: [Hack The Box](https://hackthebox.com/...) | [TryHackMe](https://tryhackme.com/...) | [PicoCTF](https://picoctf.org/...)
-- **GitHub**: Star my repos or collaborate on a project!
 
 <!---
 MOmar990/MOmar990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
