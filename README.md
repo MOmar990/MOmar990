@@ -90,12 +90,13 @@
 
 - **Anubis-Vault**  
   A Python-based Seal secrets with AES-256, hide in PNGs, and summon dependencies!
-  [🔗 Repo](https://github.com/MOmar990/Anubis-Vault.git)
+  [🔗 Anubis-Vault
+](https://github.com/MOmar990/Anubis-Vault.git)
 
 - **ShadowCourier**  
   About
 A stealthy Python tool for secure file transfers in penetration testing labs. Features AES-256-CBC encryption, gzip compression, and User-Agent rotation for covert operations. Ethical use only.  
-  [🔗 Repo](https://github.com/MOmar990/ShadowCourier.git)
+  [🔗 ShadowCourier](https://github.com/MOmar990/ShadowCourier.git)
 
 - **Recon Toolkit** (In Progress)  
   A modular Python suite for automated reconnaissance and payload delivery. Expected Q2 2025.
