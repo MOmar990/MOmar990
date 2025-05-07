@@ -120,9 +120,30 @@ A stealthy Python tool for secure file transfers in penetration testing labs. Fe
 
 ### 🏅 Certifications
 
-- [Placeholder: e.g., OSCP, CEH, CompTIA Security+]  
-- [Add your certifications here or link to Credly/LinkedIn]
+<p align="center">
+  <img src="https://img.shields.io/badge/Telecom%20Egypt%20(WE)%20-%20TCP/IP%20%26%20Switching-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telecom%20Egypt%20(WE)%20-%20Software%20Testing-800080?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telecom%20Egypt%20(First%20Automation)%20-%20Conventional%20Control-FF4500?style=flat-square" />
+</p>
 
+- **TCP/IP & Switching**  
+  - Issued by: Telecom Egypt (WE)  
+  - Date: September 24 - October 5, 2023  
+  - Grade: Excellent  
+
+
+- **Software Testing**  
+  - Issued by: Telecom Egypt (WE)  
+  - Date: August 25 - September 15, 2024  
+  - Grade: Excellent  
+
+
+- **Conventional Control**  
+  - Issued by: Telecom Egypt (First Automation)  
+  - Date: January 29 - August 8, 2023  
+  - Grade: Excellent  
+
+*Note: Physical certificates available upon request.*
 ---
 
 ### 🐫 The Pharaoh’s Code
