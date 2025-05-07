@@ -106,9 +106,9 @@ A stealthy Python tool for secure file transfers in penetration testing labs. Fe
 
 <p align="center">
   <a href="mailto:OmarMajectyTaher2@gmail.com"><img src="https://img.shields.io/badge/Email-OmarMajectyTaher2%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://hackthebox.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /></a>
-  <a href="https://tryhackme.com/YOUR_PROFILE"><img src="https://img.shields.io/badge/TryHackMe-Profile-88cc14?style=flat-square&logo=tryhackme&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/omar-taher-15a074264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://academy.hackthebox.com/my-certificates"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://tryhackme.com/p/omarmajectytaher"><img src="https://img.shields.io/badge/TryHackMe-Profile-88cc14?style=flat-square&logo=tryhackme&logoColor=black" /></a>
 </p>
 
 ---
