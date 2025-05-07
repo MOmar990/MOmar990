@@ -6,22 +6,17 @@
 
 ---
 
-## 💀 Omar's Digital Tomb
+## Omar Taher | Cybersecurity Engineer
 
-🧑‍💻 **Penetration Tester | Red Teamer | Cybersecurity Engineer 🇪🇬**
-
-I’m Omar, a cybersecurity professional who thrives on **hunting**, **building**, and **breaking**. From crafting covert data exfiltration tools to dissecting operating systems, I push the boundaries of offensive and defensive security.
-
-🔒 By day, I’m a SOC Tier 1 Analyst neutralizing threats. By night, I’m a Red Teamer designing attack flows, scripting exploits, and challenging the status quo.
+### I am a SOC Tier 1 Analyst with a focus on offensive security, specializing in penetration testing and tool development. Based in Egypt, I leverage my experience in incident response to enhance my skills in identifying vulnerabilities and building secure systems.
 
 ---
 
-### 🧬 About Me
+### About Me
 
-- **Role**: SOC Tier 1 Analyst with a Red Team soul  
-- **Focus**: Offensive security (exploits, recon, weaponization)  
-- **Skills**: Blue team defense, incident response, tool development  
-- **Location**: Egypt, operating in code and packet flows  
+- Role: SOC Tier 1 Analyst with a focus on offensive security
+- Expertise: Penetration testing, tool development, and incident response
+- Location: Egypt
 
 ---
 
