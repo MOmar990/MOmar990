@@ -109,7 +109,9 @@ A stealthy Python tool for secure file transfers in penetration testing labs. Fe
   <a href="https://www.linkedin.com/in/omar-taher-15a074264/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://academy.hackthebox.com/my-certificates"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /></a>
   <a href="https://tryhackme.com/p/omarmajectytaher"><img src="https://img.shields.io/badge/TryHackMe-Profile-88cc14?style=flat-square&logo=tryhackme&logoColor=black" /></a>
+  <a href="https://play.picoctf.org/users/Majecty-90-"><img src="https://img.shields.io/badge/picoCTF-Profile-blueviolet?style=flat-square&logo=ctfd&logoColor=white" /></a>
 </p>
+
 
 ---
 
