@@ -124,26 +124,54 @@ A stealthy Python tool for secure file transfers in penetration testing labs. Fe
   <img src="https://img.shields.io/badge/Telecom%20Egypt%20(WE)%20-%20TCP/IP%20%26%20Switching-4B0082?style=flat-square" />
   <img src="https://img.shields.io/badge/Telecom%20Egypt%20(WE)%20-%20Software%20Testing-800080?style=flat-square" />
   <img src="https://img.shields.io/badge/Telecom%20Egypt%20(First%20Automation)%20-%20Conventional%20Control-FF4500?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20CompTIA%20A+-D3D3D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20Network+-D3D3D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20Security+-D3D3D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20RH124-D3D3D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20CCNP-D3D3D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20CEH-D3D3D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20RH134-D3D3D3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Self-Study%20OSCP-D3D3D3?style=flat-square" />
 </p>
 
 - **TCP/IP & Switching**  
   - Issued by: Telecom Egypt (WE)  
   - Date: September 24 - October 5, 2023  
-  - Grade: Excellent  
-
 
 - **Software Testing**  
   - Issued by: Telecom Egypt (WE)  
   - Date: August 25 - September 15, 2024  
-  - Grade: Excellent  
-
 
 - **Conventional Control**  
   - Issued by: Telecom Egypt (First Automation)  
   - Date: January 29 - August 8, 2023  
   - Grade: Excellent  
 
-*Note: Physical certificates available upon request.*
+- **CompTIA A+ (Self-Study)**  
+  - Date: Approximately December 6, 2017 - February 3, 2018  
+
+- **Network+ (Self-Study)**  
+  - Date: Approximately April 19, 2018 - June 8, 2018  
+
+- **Security+ (Self-Study)**  
+  - Date: Approximately August 15, 2018 - November 10, 2018  
+
+- **Red Hat System Administration I (RH124) (Self-Study)**  
+  - Date: Approximately February 4, 2019 - December 6, 2020  
+
+- **CCNP (Self-Study)**  
+  - Date: Approximately April 16, 2021 - June 22, 2021  
+
+- **CEH (Self-Study)**  
+  - Date: Approximately January 1, 2023 - March 18, 2023  
+
+- **Red Hat System Administration II (RH134) (Self-Study)**  
+  - Date: Approximately April 5, 2023 - June 9, 2023  
+
+- **OSCP (Self-Study)**  
+  - Date: Approximately July 12, 2023 - August 16, 2023  
+
+*Note: Physical certificates available upon request for formal training. Self-study dates are approximate and reflect extensive learning from educational platforms, blogs, and walkthroughs.*
 ---
 
 ### 🐫 The Pharaoh’s Code
