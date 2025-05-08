@@ -6,15 +6,16 @@
 
 ---
 
-## Omar Taher | SOC Tier 1 Analyst
+## Omar Taher | Junior Penetration Tester
 
-### I am a SOC Tier 1 Analyst with a focus on offensive security, specializing in penetration testing and tool development. Based in Egypt, I leverage my experience in incident response to enhance my skills in identifying vulnerabilities and building secure systems.
+   
+I am a Junior Penetration Tester with a focus on offensive security, specializing in penetration testing and tool development. Based in Egypt, I leverage my experience in incident response to enhance my skills in identifying vulnerabilities and building secure systems.
 
 ---
 
 ### About Me
 
-- Role: SOC Tier 1 Analyst with a focus on offensive security
+- Role: Junior Penetration Tester
 - Expertise: Penetration testing, tool development, and incident response
 - Location: Egypt
 
