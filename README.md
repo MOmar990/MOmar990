@@ -93,12 +93,13 @@ I bridge the gap between **Offensive Knowledge** and **Defensive Operations**. W
 
 ---
 
-### 📬 Connect with Me
+### 📬 Connect with Me & Read My Work
 
 <p align="center">
-  <a href="mailto:OmarMajectyTaher2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/omar-taher-15a074264/](https://www.linkedin.com/in/omartaher990/)"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/omarmajectytaher"><img src="https://img.shields.io/badge/TryHackMe-Top%20%25-88cc14?style=flat-square&logo=tryhackme&logoColor=black" /></a>
+  <a href="mailto:omarmajectytaher2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omartaher990/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://app.gitbook.com/o/Zl7vMcNBEX3etk8D9Tnv/s/wZQkLlCq33paDTdF8yVc/"><img src="https://img.shields.io/badge/GitBook-Writeups%20%26%20Articles-3884FF?style=flat-square&logo=gitbook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1Zyu5RdnJk/"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
