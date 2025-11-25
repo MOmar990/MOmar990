@@ -97,7 +97,7 @@ I bridge the gap between **Offensive Knowledge** and **Defensive Operations**. W
 
 <p align="center">
   <a href="mailto:OmarMajectyTaher2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/omar-taher-15a074264/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/omar-taher-15a074264/](https://www.linkedin.com/in/omartaher990/)"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/omarmajectytaher"><img src="https://img.shields.io/badge/TryHackMe-Top%20%25-88cc14?style=flat-square&logo=tryhackme&logoColor=black" /></a>
 </p>
 
